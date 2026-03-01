@@ -42,40 +42,43 @@ class MajorityElement {
 }
 
 
-// class Solution {
 
-//     public static int majorityElement(int[] nums)
-//     {
-//         int n = nums.length;
-//         for(int i = 0; i < n; i++)
-//         {
-//             int count = 0;
+// Brute Force Technique
+class MajorityElement{
+
+    public static int majorityElement(int[] nums)
+    {
+        int n = nums.length;
+        for(int i = 0; i < n; i++)
+        {
+            int count = 0;
 
             
-//             for(int j = 0; j < n; j++)
-//             {
-//                 if(nums[i] == nums[j])
-//                 {
-//                     count++;
-//                 }
-//             }
+            for(int j = 0; j < n; j++)
+            {
+                if(nums[i] == nums[j])
+                {
+                    count++;
+                }
+            }
 
           
-//             if(count > n/2)
-//             {
-//                 return nums[i];
-//             }
-//         }
+            if(count > n/2)
+            {
+                return nums[i];
+            }
+        }
 
-//         return -1; 
-//     }
+        return -1; 
+    }
 
-//     public static void main(String args[])
-//     {
-//         int nums[] = {2,2,1,1,1,2,2};
+    public static void main(String args[])
+    {
+        int nums[] = {2,2,1,1,1,2,2};
 
-//         int result = majorityElement(nums);
+        int result = majorityElement(nums);
 
-//         System.out.println("Majority Element is: " + result);
-//     }
-// }
+        System.out.println("Majority Element is: " + result);
+    }
+
+}
