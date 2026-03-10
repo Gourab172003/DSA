@@ -1,10 +1,10 @@
-public class reverse{
+public class reverse {
 
-    static class Node{
+    static class Node {
         int data;
         Node next;
 
-        Node(int data){
+        Node(int data) {
             this.data = data;
             this.next = null;
         }
@@ -13,11 +13,10 @@ public class reverse{
     public static Node head;
     public static Node tail;
 
-    public static void addLast(int data)
-    {
+    public static void addLast(int data) {
         Node newNode = new Node(data);
 
-        if(head == null){
+        if (head == null) {
             head = tail = newNode;
             return;
         }
@@ -26,49 +25,43 @@ public class reverse{
         tail = newNode;
     }
 
-    public static void reverse(Node head)
-    {
+    public static void reverse() {
         Node current = head;
         Node prev = null;
         Node next;
 
-        while(current != null)
-        {
+        while (current != null) {
             next = current.next;
             current.next = prev;
             prev = current;
             current = next;
         }
 
-        reverse.head = prev;
+        head = prev; // new head after reversing
     }
 
-    public static void display(Node head)
-    {
+    public static void display() {
         Node temp = head;
 
-        while(temp != null)
-        {
-            System.out.print(temp.data + " → ");
+        while (temp != null) {
+            System.out.print(temp.data + "-->");
             temp = temp.next;
         }
 
         System.out.println("null");
     }
 
-    public static void main(String args[])
-    {
-        reverse LL = new reverse();
+    public static void main(String args[]) {
 
-        LL.addLast(1);
-        LL.addLast(2);
-        LL.addLast(3);
-        LL.addLast(4);
+        addLast(1);
+        addLast(2);
+        addLast(3);
+        addLast(4);
 
-        display(head);
+        display();
 
-        LL.reverse(head);
+        reverse();
 
-        LL.display(head);
+        display();
     }
 }
