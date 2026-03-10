@@ -14,12 +14,12 @@ Node temp2 = head2;
 while(temp1 != temp2)
 {
     if(temp1 == null)
-        temp1 = head2;
+        temp1 = head1;
     else
         temp1 = temp1.next;
 
     if(temp2 == null)
-        temp2 = head1;
+        temp2 = head2;
     else
         temp2 = temp2.next;
 }
@@ -50,5 +50,9 @@ System.out.println(temp1.data);
         head2.data = 5;
         head2.next = node3;
         intersect(head1, head2);
+
+          Node node21 = new Node();
+        node21.data = 7;
+        node21.next = head2;
   }
 }
