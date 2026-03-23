@@ -16,8 +16,8 @@ public class missing
         int XOR= arr.length;
         for (int i = 0; i < arr.length; i++) {
             
-            XOR= XOR ^ i;
-            XOR= XOR ^ arr[i];
+            XOR= XOR ^ i ^ arr[i];
+            // XOR= XOR ^ arr[i];
         }
         return XOR;
     }
