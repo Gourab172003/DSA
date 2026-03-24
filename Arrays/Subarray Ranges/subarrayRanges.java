@@ -1,4 +1,4 @@
-class subarrayRanges {
+class Solution {
     public static long subArrayRanges(int[] nums) {
         int n= nums.length;
         long ans=0;
