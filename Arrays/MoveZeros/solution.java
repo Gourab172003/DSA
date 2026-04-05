@@ -3,7 +3,7 @@ public class solution{
     {
         int a[]={0,1,0,3,12};
         int k=0;
-        for(int i=1;i<a.length;i++){
+        for(int i=0;i<a.length;i++){
             if(a[i]!=0)
             {
                 int temp=a[k];
@@ -11,6 +11,7 @@ public class solution{
                 a[i]=temp;
                 k++;
             }
+            
         }
         for(int i=0;i<a.length;i++)
         {
