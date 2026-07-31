@@ -6,6 +6,7 @@ DSA Practice Questions
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/Gourab172003/DSA/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -25,6 +26,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Gourab172003/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -33,4 +35,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gourab172003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
