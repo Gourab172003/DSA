@@ -11,6 +11,7 @@ DSA Practice Questions
 | [0160-intersection-of-two-linked-lists](https://github.com/Gourab172003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Gourab172003/DSA/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3866-first-unique-even-element](https://github.com/Gourab172003/DSA/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gourab172003/DSA/tree/master/0014-longest-common-prefix) |
+| [3866-first-unique-even-element](https://github.com/Gourab172003/DSA/tree/master/3866-first-unique-even-element) |
 ## Trie
 |  |
 | ------- |
@@ -60,4 +62,5 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [3866-first-unique-even-element](https://github.com/Gourab172003/DSA/tree/master/3866-first-unique-even-element) |
 <!---LeetCode Topics End-->
