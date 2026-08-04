@@ -33,6 +33,7 @@ DSA Practice Questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gourab172003/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Gourab172003/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Gourab172003/DSA/tree/master/0141-linked-list-cycle) |
@@ -43,6 +44,7 @@ DSA Practice Questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gourab172003/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Stack
 |  |
@@ -69,4 +71,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
