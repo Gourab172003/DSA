@@ -10,6 +10,7 @@ DSA Practice Questions
 | [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gourab172003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Gourab172003/DSA/tree/master/0205-isomorphic-strings) |
+| [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -25,6 +26,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gourab172003/DSA/tree/master/0014-longest-common-prefix) |
+| [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3866-first-unique-even-element](https://github.com/Gourab172003/DSA/tree/master/3866-first-unique-even-element) |
@@ -59,6 +61,7 @@ DSA Practice Questions
 | [0141-linked-list-cycle](https://github.com/Gourab172003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gourab172003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gourab172003/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Queue
 |  |
@@ -77,4 +80,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
