@@ -54,6 +54,7 @@ DSA Practice Questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Gourab172003/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +99,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gourab172003/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
