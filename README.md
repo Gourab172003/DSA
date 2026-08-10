@@ -68,6 +68,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gourab172003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
@@ -142,11 +143,13 @@ DSA Practice Questions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gourab172003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gourab172003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -156,4 +159,5 @@ DSA Practice Questions
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gourab172003/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Gourab172003/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
