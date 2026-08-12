@@ -47,6 +47,7 @@ DSA Practice Questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gourab172003/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Gourab172003/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/Gourab172003/DSA/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Gourab172003/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Gourab172003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gourab172003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
