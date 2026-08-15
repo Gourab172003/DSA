@@ -105,6 +105,7 @@ DSA Practice Questions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
 | [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gourab172003/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,4 +175,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/Gourab172003/DSA/tree/master/0707-design-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gourab172003/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
