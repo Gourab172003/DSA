@@ -32,6 +32,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gourab172003/DSA/tree/master/0014-longest-common-prefix) |
+| [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ DSA Practice Questions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gourab172003/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Gourab172003/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Gourab172003/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Gourab172003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -113,6 +115,7 @@ DSA Practice Questions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
@@ -179,4 +182,12 @@ DSA Practice Questions
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gourab172003/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
