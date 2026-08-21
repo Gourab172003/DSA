@@ -37,6 +37,7 @@ DSA Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gourab172003/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3866-first-unique-even-element](https://github.com/Gourab172003/DSA/tree/master/3866-first-unique-even-element) |
 ## Trie
 |  |
@@ -89,6 +90,7 @@ DSA Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Gourab172003/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gourab172003/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gourab172003/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Queue
 |  |
 | ------- |
@@ -196,4 +198,8 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gourab172003/DSA/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Gourab172003/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
