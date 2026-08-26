@@ -36,6 +36,7 @@ DSA Practice Questions
 | [0014-longest-common-prefix](https://github.com/Gourab172003/DSA/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/Gourab172003/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab172003/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gourab172003/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -131,6 +132,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gourab172003/DSA/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab172003/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
