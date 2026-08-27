@@ -38,6 +38,7 @@ DSA Practice Questions
 | [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab172003/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gourab172003/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0283-move-zeroes](https://github.com/Gourab172003/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -91,6 +92,7 @@ DSA Practice Questions
 | [0141-linked-list-cycle](https://github.com/Gourab172003/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gourab172003/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Gourab172003/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/Gourab172003/DSA/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Gourab172003/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Gourab172003/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
