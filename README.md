@@ -44,6 +44,7 @@ DSA Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gourab172003/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Gourab172003/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Gourab172003/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gourab172003/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3866-first-unique-even-element](https://github.com/Gourab172003/DSA/tree/master/3866-first-unique-even-element) |
 ## Trie
