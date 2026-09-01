@@ -29,6 +29,7 @@ DSA Practice Questions
 | [0205-isomorphic-strings](https://github.com/Gourab172003/DSA/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Gourab172003/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/Gourab172003/DSA/tree/master/0657-robot-return-to-origin) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gourab172003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -216,6 +217,7 @@ DSA Practice Questions
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Gourab172003/DSA/tree/master/0657-robot-return-to-origin) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Gourab172003/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Union-Find
 |  |
