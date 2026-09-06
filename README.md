@@ -40,6 +40,7 @@ DSA Practice Questions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gourab172003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gourab172003/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Gourab172003/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Gourab172003/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gourab172003/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Gourab172003/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -128,6 +129,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gourab172003/DSA/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/Gourab172003/DSA/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/Gourab172003/DSA/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Gourab172003/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
