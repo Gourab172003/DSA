@@ -37,6 +37,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gourab172003/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Gourab172003/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gourab172003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gourab172003/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Gourab172003/DSA/tree/master/0053-maximum-subarray) |
@@ -95,6 +96,7 @@ DSA Practice Questions
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gourab172003/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gourab172003/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gourab172003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gourab172003/DSA/tree/master/0027-remove-element) |
@@ -139,6 +141,7 @@ DSA Practice Questions
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Gourab172003/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Gourab172003/DSA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
