@@ -32,6 +32,7 @@ DSA Practice Questions
 | [0383-ransom-note](https://github.com/Gourab172003/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Gourab172003/DSA/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/Gourab172003/DSA/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gourab172003/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
 |  |
@@ -163,6 +164,7 @@ DSA Practice Questions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Gourab172003/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Gourab172003/DSA/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
