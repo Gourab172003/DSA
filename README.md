@@ -41,6 +41,7 @@ DSA Practice Questions
 | [0015-3sum](https://github.com/Gourab172003/DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Gourab172003/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Gourab172003/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gourab172003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Gourab172003/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Gourab172003/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Gourab172003/DSA/tree/master/0075-sort-colors) |
@@ -141,6 +142,7 @@ DSA Practice Questions
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Gourab172003/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Gourab172003/DSA/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
